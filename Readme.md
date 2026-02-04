@@ -34,16 +34,6 @@ I am a passionate student developer currently learning **Web Development** at **
     </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leader4353&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
